@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Game Engine", "Game Engine\Game Engine.csproj", "{B58AF1DF-55F6-46A1-B0CF-0569088ACD72}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Microcosm", "Microcosm\Microcosm.csproj", "{39A5D362-60A6-4CD7-B446-58919D32EEE4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B58AF1DF-55F6-46A1-B0CF-0569088ACD72}.Debug|x86.ActiveCfg = Debug|x86
+		{B58AF1DF-55F6-46A1-B0CF-0569088ACD72}.Debug|x86.Build.0 = Debug|x86
+		{B58AF1DF-55F6-46A1-B0CF-0569088ACD72}.Release|x86.ActiveCfg = Release|x86
+		{B58AF1DF-55F6-46A1-B0CF-0569088ACD72}.Release|x86.Build.0 = Release|x86
+		{39A5D362-60A6-4CD7-B446-58919D32EEE4}.Debug|x86.ActiveCfg = Debug|x86
+		{39A5D362-60A6-4CD7-B446-58919D32EEE4}.Debug|x86.Build.0 = Debug|x86
+		{39A5D362-60A6-4CD7-B446-58919D32EEE4}.Release|x86.ActiveCfg = Release|x86
+		{39A5D362-60A6-4CD7-B446-58919D32EEE4}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

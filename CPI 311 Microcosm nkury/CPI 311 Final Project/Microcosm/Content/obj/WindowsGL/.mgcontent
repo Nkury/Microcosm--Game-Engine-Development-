@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SourceFileCollection xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Profile>Reach</Profile>
+  <Platform>WindowsGL</Platform>
+  <Config />
+  <SourceFiles>
+    <File>C:/Users/PC/Desktop/ASU Books/CPI 311/Course Project/CPI 311 Microcosm nkury/CPI 311 Final Project/Microcosm/Content/Sphere.FBX</File>
+    <File>C:/Users/PC/Desktop/ASU Books/CPI 311/Course Project/CPI 311 Microcosm nkury/CPI 311 Final Project/Microcosm/Content/Square.png</File>
+    <File>C:/Users/PC/Desktop/ASU Books/CPI 311/Course Project/CPI 311 Microcosm nkury/CPI 311 Final Project/Microcosm/Content/font.spritefont</File>
+    <File>C:/Users/PC/Desktop/ASU Books/CPI 311/Course Project/CPI 311 Microcosm nkury/CPI 311 Final Project/Microcosm/Content/SimpleShading.fx</File>
+    <File>C:/Users/PC/Desktop/ASU Books/CPI 311/Course Project/CPI 311 Microcosm nkury/CPI 311 Final Project/Microcosm/Content/TennisBallColorMap.jpg</File>
+    <File>C:/Users/PC/Desktop/ASU Books/CPI 311/Course Project/CPI 311 Microcosm nkury/CPI 311 Final Project/Microcosm/Content/chocolate.jpg</File>
+    <File>C:/Users/PC/Desktop/ASU Books/CPI 311/Course Project/CPI 311 Microcosm nkury/CPI 311 Final Project/Microcosm/Content/bar.FBX</File>
+    <File>C:/Users/PC/Desktop/ASU Books/CPI 311/Course Project/CPI 311 Microcosm nkury/CPI 311 Final Project/Microcosm/Content/wall.FBX</File>
+    <File>C:/Users/PC/Desktop/ASU Books/CPI 311/Course Project/CPI 311 Microcosm nkury/CPI 311 Final Project/Microcosm/Content/arena.FBX</File>
+    <File>C:/Users/PC/Desktop/ASU Books/CPI 311/Course Project/CPI 311 Microcosm nkury/CPI 311 Final Project/Microcosm/Content/lazer_yellow.png</File>
+    <File>C:/Users/PC/Desktop/ASU Books/CPI 311/Course Project/CPI 311 Microcosm nkury/CPI 311 Final Project/Microcosm/Content/nuke.wav</File>
+    <File>C:/Users/PC/Desktop/ASU Books/CPI 311/Course Project/CPI 311 Microcosm nkury/CPI 311 Final Project/Microcosm/Content/Power Up.wav</File>
+    <File>C:/Users/PC/Desktop/ASU Books/CPI 311/Course Project/CPI 311 Microcosm nkury/CPI 311 Final Project/Microcosm/Content/FreezePower.wav</File>
+    <File>C:/Users/PC/Desktop/ASU Books/CPI 311/Course Project/CPI 311 Microcosm nkury/CPI 311 Final Project/Microcosm/Content/level1 music.wav</File>
+    <File>C:/Users/PC/Desktop/ASU Books/CPI 311/Course Project/CPI 311 Microcosm nkury/CPI 311 Final Project/Microcosm/Content/coin_rush.wav</File>
+    <File>C:/Users/PC/Desktop/ASU Books/CPI 311/Course Project/CPI 311 Microcosm nkury/CPI 311 Final Project/Microcosm/Content/warning-icon-hi.png</File>
+    <File>C:/Users/PC/Desktop/ASU Books/CPI 311/Course Project/CPI 311 Microcosm nkury/CPI 311 Final Project/Microcosm/Content/cardboard-texture.jpg</File>
+    <File>C:/Users/PC/Desktop/ASU Books/CPI 311/Course Project/CPI 311 Microcosm nkury/CPI 311 Final Project/Microcosm/Content/title screen.jpg</File>
+    <File>C:/Users/PC/Desktop/ASU Books/CPI 311/Course Project/CPI 311 Microcosm nkury/CPI 311 Final Project/Microcosm/Content/title screen 1.wav</File>
+    <File>C:/Users/PC/Desktop/ASU Books/CPI 311/Course Project/CPI 311 Microcosm nkury/CPI 311 Final Project/Microcosm/Content/game over music.wav</File>
+    <File>C:/Users/PC/Desktop/ASU Books/CPI 311/Course Project/CPI 311 Microcosm nkury/CPI 311 Final Project/Microcosm/Content/buttonTexture.jpg</File>
+    <File>C:/Users/PC/Desktop/ASU Books/CPI 311/Course Project/CPI 311 Microcosm nkury/CPI 311 Final Project/Microcosm/Content/ball.FBX</File>
+    <File>C:/Users/PC/Desktop/ASU Books/CPI 311/Course Project/CPI 311 Microcosm nkury/CPI 311 Final Project/Microcosm/Content/gold.jpg</File>
+    <File>C:/Users/PC/Desktop/ASU Books/CPI 311/Course Project/CPI 311 Microcosm nkury/CPI 311 Final Project/Microcosm/Content/pellet.FBX</File>
+  </SourceFiles>
+</SourceFileCollection>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PipelineBuildEvent xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <SourceFile>C:/Users/PC/Desktop/ASU Books/CPI 311/Course Project/CPI 311 Microcosm nkury/CPI 311 Final Project/Microcosm/Content/SimpleShading.fx</SourceFile>
+  <SourceTime>2015-11-19T17:12:24-07:00</SourceTime>
+  <DestFile>C:/Users/PC/Desktop/ASU Books/CPI 311/Course Project/CPI 311 Microcosm nkury/CPI 311 Final Project/Microcosm/Content/bin/WindowsGL/SimpleShading.xnb</DestFile>
+  <DestTime>2015-12-10T14:41:44.9751386-07:00</DestTime>
+  <Importer>EffectImporter</Importer>
+  <ImporterTime>2015-04-29T10:14:44-07:00</ImporterTime>
+  <Processor>EffectProcessor</Processor>
+  <ProcessorTime>2015-04-29T10:14:44-07:00</ProcessorTime>
+  <Parameters>
+    <Key>DebugMode</Key>
+    <Value>Auto</Value>
+  </Parameters>
+  <Dependencies />
+  <BuildAsset />
+  <BuildOutput />
+</PipelineBuildEvent>

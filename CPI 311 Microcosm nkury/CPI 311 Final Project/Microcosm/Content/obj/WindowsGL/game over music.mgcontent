@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PipelineBuildEvent xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <SourceFile>C:/Users/PC/Desktop/ASU Books/CPI 311/Course Project/CPI 311 Microcosm nkury/CPI 311 Final Project/Microcosm/Content/game over music.wav</SourceFile>
+  <SourceTime>2015-06-24T19:35:50.8130159-07:00</SourceTime>
+  <DestFile>C:/Users/PC/Desktop/ASU Books/CPI 311/Course Project/CPI 311 Microcosm nkury/CPI 311 Final Project/Microcosm/Content/bin/WindowsGL/game over music.xnb</DestFile>
+  <DestTime>2015-12-10T14:41:53.0103176-07:00</DestTime>
+  <Importer>WavImporter</Importer>
+  <ImporterTime>2015-04-29T10:14:44-07:00</ImporterTime>
+  <Processor>SoundEffectProcessor</Processor>
+  <ProcessorTime>2015-04-29T10:14:44-07:00</ProcessorTime>
+  <Parameters>
+    <Key>Quality</Key>
+    <Value>Best</Value>
+  </Parameters>
+  <Dependencies />
+  <BuildAsset />
+  <BuildOutput />
+</PipelineBuildEvent>

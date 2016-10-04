@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PipelineBuildEvent xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <SourceFile>C:/Users/PC/Desktop/ASU Books/CPI 311/Course Project/CPI 311 Microcosm nkury/CPI 311 Final Project/Microcosm/Content/title screen 1.wav</SourceFile>
+  <SourceTime>2015-06-27T23:00:18.2026052-07:00</SourceTime>
+  <DestFile>C:/Users/PC/Desktop/ASU Books/CPI 311/Course Project/CPI 311 Microcosm nkury/CPI 311 Final Project/Microcosm/Content/bin/WindowsGL/title screen 1.xnb</DestFile>
+  <DestTime>2015-12-10T14:41:52.8237508-07:00</DestTime>
+  <Importer>WavImporter</Importer>
+  <ImporterTime>2015-04-29T10:14:44-07:00</ImporterTime>
+  <Processor>SoundEffectProcessor</Processor>
+  <ProcessorTime>2015-04-29T10:14:44-07:00</ProcessorTime>
+  <Parameters>
+    <Key>Quality</Key>
+    <Value>Best</Value>
+  </Parameters>
+  <Dependencies />
+  <BuildAsset />
+  <BuildOutput />
+</PipelineBuildEvent>
